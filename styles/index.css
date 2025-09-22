@@ -855,7 +855,6 @@ body {
 
 .product-card__image {
     height: 100%;
-
     object-fit: contain;
 }
 
